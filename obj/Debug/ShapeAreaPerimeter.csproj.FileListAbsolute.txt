@@ -1,0 +1,6 @@
+c:\users\wwstudent\documents\visual studio 2017\Projects\ShapeAreaPerimeter\ShapeAreaPerimeter\bin\Debug\ShapeAreaPerimeter.exe.config
+c:\users\wwstudent\documents\visual studio 2017\Projects\ShapeAreaPerimeter\ShapeAreaPerimeter\bin\Debug\ShapeAreaPerimeter.exe
+c:\users\wwstudent\documents\visual studio 2017\Projects\ShapeAreaPerimeter\ShapeAreaPerimeter\bin\Debug\ShapeAreaPerimeter.pdb
+c:\users\wwstudent\documents\visual studio 2017\Projects\ShapeAreaPerimeter\ShapeAreaPerimeter\obj\Debug\ShapeAreaPerimeter.csprojResolveAssemblyReference.cache
+c:\users\wwstudent\documents\visual studio 2017\Projects\ShapeAreaPerimeter\ShapeAreaPerimeter\obj\Debug\ShapeAreaPerimeter.exe
+c:\users\wwstudent\documents\visual studio 2017\Projects\ShapeAreaPerimeter\ShapeAreaPerimeter\obj\Debug\ShapeAreaPerimeter.pdb
